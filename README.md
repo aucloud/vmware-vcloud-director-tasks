@@ -97,5 +97,5 @@ The stop action will "shutdown" a virtual server by shutting down the guest oper
 
 ## Material
 
-https://vmware.github.io/pyvcloud/index.html
-https://vmware.github.io/vcd-cli/
+* https://vmware.github.io/pyvcloud/index.html
+* https://vmware.github.io/vcd-cli/
