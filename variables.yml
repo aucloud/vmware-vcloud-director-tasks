@@ -1,0 +1,13 @@
+---
+# Variables file
+
+VCD_HOST: '< vCloud Director hostname or ip >'
+VCD_SSL_VERIFY: < True or False >
+VCD_API_VERSION: '< vCloud Director API version >'
+VCD_ORG: '< vCloud Director vOrg friendly name >'
+VCD_VDC: '< vCloud Director vDC name >'
+VCD_USER: '< vCloud Director username >'
+VCD_PASSWORD: '< vCloud Director password >'
+
+VIRTUAL_MACHINES:
+  - ''
